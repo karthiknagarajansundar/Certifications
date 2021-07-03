@@ -1,6 +1,5 @@
 ## Courses
-### Chalmers University of Technology
-#### [Transcripts](https://github.com/karthiknagarajansundar/Certifications/blob/main/Intyg.pdf)
+### Chalmers University of Technology [Transcripts](https://github.com/karthiknagarajansundar/Certifications/blob/main/Intyg.pdf)
 
 #### [Computer Vision](https://student.portal.chalmers.se/en/chalmersstudies/programme-information/Pages/SearchProgram.aspx?course_id=31369&parsergrp=2)
 
